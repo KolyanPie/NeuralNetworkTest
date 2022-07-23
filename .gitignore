@@ -1,0 +1,11 @@
+## Java
+*.class
+
+## Idea
+.idea/
+*.iml
+
+## Gradle
+.gradle/
+/build/
+/*/build/

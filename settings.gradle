@@ -1,0 +1,3 @@
+rootProject.name = 'NeuralNetworkTest'
+include 'module1'
+
